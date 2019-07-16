@@ -8,6 +8,8 @@ Here are some C programs I've done during my Numerical Analysis course.
 * Simpson's Three Eighth Rule
 * Runge Kutta Method
 
+![Runge Kutta Method, Simpson's Three Eighth Rule](https://i.imgur.com/rBSgTgh.png)
+
 
 ## Disclaimer:
 
